@@ -1,3 +1,4 @@
+![logo](https://github.com/Driftking77/Driftking77/blob/main/0_5XM77ae9J1fs8nxD.gif)
 <h1 align="center">Hi 👋, I'm Durgesh Singh</h1>
 <h3 align="center">A passionate DevSecOps Engineer</h3>
 
